@@ -3,15 +3,14 @@
 <p>Cyber Security Student passionate about software/web-development. Competent, focused, always striving for self-development. Qualified, responsible engenier ready to solve different tasks. Proficient in web-development(JavaScript, React)</p>
 <p>Skills:</p>
 <ul>
-  <li>React</li>
-  <li>Redux</li>
-  <li>TypeScript</li>
-  <li>JavaScript</li>
   <li>HTML</li>
-  <li>CSS (Bootstrap, Tailwind), SASS/LESS</li>
-  <li>Gulp, Webpack</li>
+  <li>CSS (Bootstrap, Tailwind), SASS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Nodejs</li>
   <li>С/С++</li>
   <li>SQL</li>
+  <li>PyQT</li>
 </ul>
 <!--
 **qookieFaitPipi/qookieFaitPipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
