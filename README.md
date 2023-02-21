@@ -4,7 +4,7 @@
 <p>Skills:</p>
 <ul>
   <li>HTML</li>
-  <li>CSS (Bootstrap, Tailwind), SASS</li>
+  <li>CSS (Bootstrap, FlexBox), SASS</li>
   <li>JavaScript</li>
   <li>React</li>
   <li>Nodejs</li>
