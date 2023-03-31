@@ -9,7 +9,7 @@
 <p>Cyber Security Student passionate about software/web-development. Competent, focused, always striving for self-development. Qualified, responsible engenier ready to solve different tasks. Proficient in web-development(JavaScript, React)</p>
 
 <div id="socials" align="center">
-  <a href="telegram-url">
+  <a href="http://t.me/eianisimov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
