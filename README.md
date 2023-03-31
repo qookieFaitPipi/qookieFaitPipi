@@ -1,10 +1,12 @@
 <h1 align="center">Hi there, I'm Egor! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p>Cyber Security Student passionate about software/web-development. Competent, focused, always striving for self-development. Qualified, responsible engenier ready to solve different tasks. Proficient in web-development(JavaScript, React)</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<p>Cyber Security Student passionate about software/web-development. Competent, focused, always striving for self-development. Qualified, responsible engenier ready to solve different tasks. Proficient in web-development(JavaScript, React)</p>
 
 <div id="socials" align="center">
   <a href="telegram-url">
