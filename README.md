@@ -2,16 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p>Cyber Security Student passionate about software/web-development. Competent, focused, always striving for self-development. Qualified, responsible engenier ready to solve different tasks. Proficient in web-development(JavaScript, React)</p>
 <p>Skills:</p>
-<ul>
-  <li>HTML</li>
-  <li>CSS (Bootstrap, FlexBox), SASS</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Nodejs</li>
-  <li>С/С++</li>
-  <li>SQL</li>
-  <li>PyQT</li>
-</ul>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
