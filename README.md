@@ -16,10 +16,14 @@ A first-year general security student at Peter the Great St. Petersburg Polytech
   </a>
 </div>
 ### 👨‍💻 &nbsp;About Me :
-<div>
   - 🔭 I have experience in the company cynteka in the testing department as a web tester.&nbsp;
   - ⚡ I have experience in writing web applications with a server side, as well as information sites.&nbsp;
-</div>
+
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 <hr />
 ### 🛠 &nbsp;Languages and Tools :
 <div>
