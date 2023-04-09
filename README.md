@@ -17,8 +17,8 @@ A first-year general security student at Peter the Great St. Petersburg Polytech
 </div>
 ### 👨‍💻 &nbsp;About Me :
 <div>
-  - 🔭 I have experience in the company cynteka in the testing department as a web tester.
-  - ⚡ I have experience in writing web applications with a server side, as well as information sites.
+  - 🔭 I have experience in the company cynteka in the testing department as a web tester.&nbsp;
+  - ⚡ I have experience in writing web applications with a server side, as well as information sites.&nbsp;
 </div>
 <hr />
 ### 🛠 &nbsp;Languages and Tools :
