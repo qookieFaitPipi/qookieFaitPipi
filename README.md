@@ -15,12 +15,17 @@ A first-year general security student at Peter the Great St. Petersburg Polytech
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
+<hr />
+
 ### 👨‍💻 &nbsp;About Me :
 
 - 🔭 I have experience in the company cynteka in the testing department as a web tester.
 - 🌱 I have experience in writing web applications with a server side, as well as information sites.
 - ⚡ In my free time, I study new technologies to improve my development skills.
+
 <hr />
+
 ### 🛠 &nbsp;Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
