@@ -10,12 +10,6 @@
 A first-year general security student at Peter the Great St. Petersburg Polytechnic Institute, in my free time I practice web development (frontend and backend). I have experience in writing web applications with a server side, as well as information sites.
 </p>
 
-<div id="" align="">
-  <a href="http://t.me/eianisimov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
-
 <hr />
 
 ### 👨‍💻 &nbsp;About Me :
@@ -38,3 +32,11 @@ A first-year general security student at Peter the Great St. Petersburg Polytech
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;-->
 </div>
 
+<hr />
+
+### 👨 &nbsp;My contacts :
+<div id="" align="">
+  <a href="http://t.me/eianisimov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
