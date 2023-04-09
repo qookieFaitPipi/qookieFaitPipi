@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<p>Cyber Security Student passionate about software/web-development. Competent, focused, always striving for self-development. Qualified, responsible engenier ready to solve different tasks. Proficient in web-development(JavaScript, React)</p>
+<p>Студент первого курса информационной безопасности Санкт-Петербургского политехнического института Петра Великого, в свободное время практикую веб-разработку(frontend и backend). Есть опыт в написании веб-приложений с серверной частью, а также информационных сайтов под ключ.</p>
 
 <div id="socials" align="center">
   <a href="http://t.me/eianisimov">
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-### Languages and tools
+### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
