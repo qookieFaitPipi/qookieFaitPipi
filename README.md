@@ -36,6 +36,6 @@ A first-year general security student at Peter the Great St. Petersburg Polytech
 ### 👨 &nbsp;My contacts :
 <div id="" align="">
   <a href="http://t.me/eianisimov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 10px;" alt="Telegram"/>
   </a>
 </div>
