@@ -7,7 +7,7 @@
 </div>
 
 <p>
-A first-year information security student at Peter the Great St. Petersburg Polytechnic Institute, in my free time I practice web development (frontend and backend). I have experience in writing web applications with a server side, as well as information sites.
+A first-year information security student at Peter the Great St. Petersburg Polytechnic University, in my free time I practice web development (frontend and backend). I have experience in writing web applications with a server side, as well as information sites.
 </p>
 
 <hr />
