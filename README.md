@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Egor! 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=qookieFaitPipi&theme=tokyonight-duo&border_radius=8&mode=weekly&card_width=850" alt="GitHub Streak"/>
+</a>
 
 <p>
 A second-year information security student at Peter the Great St. Petersburg Polytechnic University. In my free time I practice web development (frontend and backend). I have experience in writing web applications with a server side, as well as information sites.
