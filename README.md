@@ -3,13 +3,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=qookieFaitPipi&theme=tokyonight-duo&border_radius=8&mode=weekly&card_width=850" alt="GitHub Streak"/>
 </a>
 
-<p>
-A second-year information security student at Peter the Great St. Petersburg Polytechnic University. In my free time I practice web development (frontend and backend). I have experience in writing web applications with a server side, as well as information sites.
-</p>
-
-<hr />
-
 ### 👨‍💻 &nbsp;About Me :
+
+A second-year information security student at Peter the Great St. Petersburg Polytechnic University. In my free time I practice web development (frontend and backend). I have experience in writing web applications with a server side, as well as information sites.
 
 - 🔭 I have experience in the company cynteka in the testing department as a web tester.
 - 🌱 I have experience in writing web applications with a server side, as well as information sites.
