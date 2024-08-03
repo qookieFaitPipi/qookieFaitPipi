@@ -36,7 +36,7 @@ A second-year information security student at Peter the Great St. Petersburg Pol
   </a>
 </div>
 
-### 🔥 &nbsp;My ctf team channel :
+### 🔥 &nbsp;My CTF Team channel :
 <div id="" align="" style="border-radius: 10px;">
   <a href="https://t.me/polyctf_team">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
