@@ -5,12 +5,7 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-A second-year information security student at Peter the Great St. Petersburg Polytechnic University. In my free time I practice web development (frontend and backend). I have experience in writing web applications with a server side, as well as information sites.
-
-- 🔭 I have experience in the company cynteka in the testing department as a web tester.
-- 🌱 I have experience in writing web applications with a server side, as well as information sites.
-- ⚡ In my free time, I study new technologies to improve my development skills.
-
+A third-year student of the Faculty of Information Security of Peter the Great St. Petersburg Polytechnic University. I am engaged in web development (frontend and backend), and I practice pentest.
 <hr />
 
 ### 🛠 &nbsp;Languages and Tools :
