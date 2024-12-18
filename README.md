@@ -5,7 +5,7 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-A third-year student of the Faculty of Information Security of Peter the Great St. Petersburg Polytechnic University. I am engaged in web development (frontend and backend), and I practice pentest.
+A third-year student of the Faculty of Information Security of Peter the Great St. Petersburg Polytechnic University. I am engaged in web development (frontend and backend), and I work in pentest.
 <hr />
 
 ### 🛠 &nbsp;Languages and Tools :
