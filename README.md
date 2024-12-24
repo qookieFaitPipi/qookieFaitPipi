@@ -29,7 +29,7 @@ A third-year student of the Faculty of Information Security of Peter the Great S
 
 ### 👨 &nbsp;My contacts :
 <div id="" align="" style="border-radius: 10px;">
-  <a href="http://t.me/eianisimov">
+  <a href="http://t.me/myqookie">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
