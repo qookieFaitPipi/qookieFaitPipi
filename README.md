@@ -36,7 +36,7 @@ A third-year student of the Faculty of Information Security of Peter the Great S
 
 ### 🔥 &nbsp;My CTF Team channel :
 <div id="" align="" style="border-radius: 10px;">
-  <a href="https://t.me/polyctf_team">
+  <a href="https://t.me/duckerz">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
